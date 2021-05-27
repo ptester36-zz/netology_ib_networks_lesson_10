@@ -1,13 +1,13 @@
 # БЕЗ ЛИМИТА
 
 * Скриншот с запросами ab до включения limit_req на nginx
-![](pic/um.png)
+![](pic/um.PNG)
 
 * Скриншот с запросами ab после включения limit_req на nginx
-![](pic/dois.png)
+![](pic/dois.PNG)
 
 * Скриншот с запросами ab после включения fail2ban (не обязательно)
-![](pic/tres.png)
+![](pic/tres.PNG)
 
 # Suricata
 
